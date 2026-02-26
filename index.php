@@ -15,6 +15,79 @@ require_once 'includes/header.php';
     </div>
 </section>
 
+<!-- Image Carousel Section -->
+<section class="section">
+    <div class="container">
+        <div class="text-center mb-5">
+            <h2>Our Community in Action</h2>
+            <p class="lead">Witness the vibrant community life and the transformative impact of our work through these powerful moments captured in the field.</p>
+        </div>
+        
+        <div class="carousel-container" style="position: relative; max-width: 1000px; margin: 0 auto; background: #000; border-radius: 1rem; overflow: hidden; box-shadow: 0 10px 30px rgba(0, 0, 0, 0.3);">
+            <!-- Carousel Slides -->
+            <div class="carousel-slides" style="position: relative; height: 500px;">
+                <!-- Slide 1: Community Children Gathering -->
+                <div class="carousel-slide active" style="position: absolute; width: 100%; height: 100%; opacity: 1; transition: opacity 1s ease-in-out;">
+                    <img src="assets/images/community-children-gathering.jpg" alt="Community Children Gathering" style="width: 100%; height: 100%; object-fit: cover;">
+                    <div class="carousel-caption" style="position: absolute; bottom: 0; left: 0; right: 0; background: linear-gradient(to top, rgba(0,0,0,0.8), transparent); color: white; padding: 2rem;">
+                        <h3 style="font-size: 1.5rem; margin-bottom: 0.5rem;">Community Children Gathering</h3>
+                        <p style="margin: 0; opacity: 0.9;">"The joyful energy of our youth represents the future we're building together. These gatherings foster unity, cultural pride, and the seeds of leadership that will grow into tomorrow's change-makers."</p>
+                    </div>
+                </div>
+                
+                <!-- Slide 2: Community Dancing -->
+                <div class="carousel-slide" style="position: absolute; width: 100%; height: 100%; opacity: 0; transition: opacity 1s ease-in-out;">
+                    <img src="assets/images/community-dancing.jpg" alt="Community Dancing" style="width: 100%; height: 100%; object-fit: cover;">
+                    <div class="carousel-caption" style="position: absolute; bottom: 0; left: 0; right: 0; background: linear-gradient(to top, rgba(0,0,0,0.8), transparent); color: white; padding: 2rem;">
+                        <h3 style="font-size: 1.5rem; margin-bottom: 0.5rem;">Cultural Dance Celebration</h3>
+                        <p style="margin: 0; opacity: 0.9;">"Through the rhythm of traditional dance, we preserve our heritage while strengthening community bonds. Each movement tells a story of resilience, identity, and collective joy that transcends generations."</p>
+                    </div>
+                </div>
+                
+                <!-- Slide 3: Community Meeting -->
+                <div class="carousel-slide" style="position: absolute; width: 100%; height: 100%; opacity: 0; transition: opacity 1s ease-in-out;">
+                    <img src="assets/images/community-meeting.jpg" alt="Community Meeting" style="width: 100%; height: 100%; object-fit: cover;">
+                    <div class="carousel-caption" style="position: absolute; bottom: 0; left: 0; right: 0; background: linear-gradient(to top, rgba(0,0,0,0.8), transparent); color: white; padding: 2rem;">
+                        <h3 style="font-size: 1.5rem; margin-bottom: 0.5rem;">Community Dialogue Circle</h3>
+                        <p style="margin: 0; opacity: 0.9;">"In these sacred circles of dialogue, every voice matters. We create spaces where community members can speak truth to power, share concerns, and collectively shape solutions that transform their lives."</p>
+                    </div>
+                </div>
+                
+                <!-- Slide 4: Women Art Session -->
+                <div class="carousel-slide" style="position: absolute; width: 100%; height: 100%; opacity: 0; transition: opacity 1s ease-in-out;">
+                    <img src="assets/images/women-art-session.jpg" alt="Women Art Session" style="width: 100%; height: 100%; object-fit: cover;">
+                    <div class="carousel-caption" style="position: absolute; bottom: 0; left: 0; right: 0; background: linear-gradient(to top, rgba(0,0,0,0.8), transparent); color: white; padding: 2rem;">
+                        <h3 style="font-size: 1.5rem; margin-bottom: 0.5rem;">Women's Art Therapy Session</h3>
+                        <p style="margin: 0; opacity: 0.9;">"Through creative expression, our women find healing, voice, and empowerment. These art sessions become powerful tools for processing trauma, building confidence, and imagining new possibilities for themselves and their communities."</p>
+                    </div>
+                </div>
+                
+                <!-- Slide 5: Women Meeting Indoors -->
+                <div class="carousel-slide" style="position: absolute; width: 100%; height: 100%; opacity: 0; transition: opacity 1s ease-in-out;">
+                    <img src="assets/images/women-meeting-indoors.jpg" alt="Women Meeting Indoors" style="width: 100%; height: 100%; object-fit: cover;">
+                    <div class="carousel-caption" style="position: absolute; bottom: 0; left: 0; right: 0; background: linear-gradient(to top, rgba(0,0,0,0.8), transparent); color: white; padding: 2rem;">
+                        <h3 style="font-size: 1.5rem; margin-bottom: 0.5rem;">Women's Leadership Circle</h3>
+                        <p style="margin: 0; opacity: 0.9;">"In these intimate gatherings, women forge alliances, share wisdom, and plan collective action. Here, the seeds of emancipation are nurtured, and the power of sisterhood transforms into community-wide change."</p>
+                    </div>
+                </div>
+            </div>
+            
+            <!-- Carousel Controls -->
+            <button class="carousel-prev" style="position: absolute; top: 50%; left: 1rem; transform: translateY(-50%); background: rgba(255,255,255,0.2); color: white; border: none; width: 50px; height: 50px; border-radius: 50%; font-size: 1.5rem; cursor: pointer; transition: background 0.3s; z-index: 10;">‹</button>
+            <button class="carousel-next" style="position: absolute; top: 50%; right: 1rem; transform: translateY(-50%); background: rgba(255,255,255,0.2); color: white; border: none; width: 50px; height: 50px; border-radius: 50%; font-size: 1.5rem; cursor: pointer; transition: background 0.3s; z-index: 10;">›</button>
+            
+            <!-- Carousel Indicators -->
+            <div class="carousel-indicators" style="position: absolute; bottom: 1rem; left: 50%; transform: translateX(-50%); display: flex; gap: 0.5rem; z-index: 10;">
+                <button class="indicator active" style="width: 12px; height: 12px; border-radius: 50%; border: none; background: white; cursor: pointer; transition: opacity 0.3s;" data-slide="0"></button>
+                <button class="indicator" style="width: 12px; height: 12px; border-radius: 50%; border: none; background: rgba(255,255,255,0.5); cursor: pointer; transition: opacity 0.3s;" data-slide="1"></button>
+                <button class="indicator" style="width: 12px; height: 12px; border-radius: 50%; border: none; background: rgba(255,255,255,0.5); cursor: pointer; transition: opacity 0.3s;" data-slide="2"></button>
+                <button class="indicator" style="width: 12px; height: 12px; border-radius: 50%; border: none; background: rgba(255,255,255,0.5); cursor: pointer; transition: opacity 0.3s;" data-slide="3"></button>
+                <button class="indicator" style="width: 12px; height: 12px; border-radius: 50%; border: none; background: rgba(255,255,255,0.5); cursor: pointer; transition: opacity 0.3s;" data-slide="4"></button>
+            </div>
+        </div>
+    </div>
+</section>
+
 <!-- Mission Section -->
 <section class="section section-light">
     <div class="container">
