@@ -196,6 +196,68 @@ require_once 'includes/header.php';
     </div>
 </section>
 
+<!-- Community Gallery Section -->
+<section class="section section-light">
+    <div class="container">
+        <div class="text-center mb-5">
+            <h2>Our Community in Action</h2>
+            <p class="lead">See the vibrant community life and the impact of our work through these moments captured in the field.</p>
+        </div>
+        
+        <div class="gallery-grid" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 2rem; margin-bottom: 3rem;">
+            <div class="gallery-item" style="background: white; border-radius: 1rem; overflow: hidden; box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);">
+                <div style="background: linear-gradient(135deg, #3498db, #2980b9); height: 200px; display: flex; align-items: center; justify-content: center; color: white; font-size: 3rem;">
+                    🎉
+                </div>
+                <div style="padding: 1.5rem;">
+                    <h3>Community Youth Gathering</h3>
+                    <p style="color: #6c757d;">A vibrant outdoor gathering where children and community members come together for joyful activities, celebrating community spirit and participation.</p>
+                </div>
+            </div>
+            
+            <div class="gallery-item" style="background: white; border-radius: 1rem; overflow: hidden; box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);">
+                <div style="background: linear-gradient(135deg, #e74c3c, #c0392b); height: 200px; display: flex; align-items: center; justify-content: center; color: white; font-size: 3rem;">
+                    🎨
+                </div>
+                <div style="padding: 1.5rem;">
+                    <h3>Women's Art Therapy Session</h3>
+                    <p style="color: #6c757d;">Empowering women through creative expression and art therapy, fostering healing and community building in a supportive environment.</p>
+                </div>
+            </div>
+            
+            <div class="gallery-item" style="background: white; border-radius: 1rem; overflow: hidden; box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);">
+                <div style="background: linear-gradient(135deg, #27ae60, #229954); height: 200px; display: flex; align-items: center; justify-content: center; color: white; font-size: 3rem;">
+                    🤝
+                </div>
+                <div style="padding: 1.5rem;">
+                    <h3>Community Meeting</h3>
+                    <p style="color: #6c757d;">Community members gathering to discuss important issues and plan collective action for sustainable development.</p>
+                </div>
+            </div>
+            
+            <div class="gallery-item" style="background: white; border-radius: 1rem; overflow: hidden; box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);">
+                <div style="background: linear-gradient(135deg, #f39c12, #e67e22); height: 200px; display: flex; align-items: center; justify-content: center; color: white; font-size: 3rem;">
+                    💃
+                </div>
+                <div style="padding: 1.5rem;">
+                    <h3>Cultural Dance Celebration</h3>
+                    <p style="color: #6c757d;">Young women leading traditional dance performances, preserving cultural heritage while building community connections.</p>
+                </div>
+            </div>
+            
+            <div class="gallery-item" style="background: white; border-radius: 1rem; overflow: hidden; box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);">
+                <div style="background: linear-gradient(135deg, #8e44ad, #7d3c98); height: 200px; display: flex; align-items: center; justify-content: center; color: white; font-size: 3rem;">
+                    📚
+                </div>
+                <div style="padding: 1.5rem;">
+                    <h3>Women's Learning Circle</h3>
+                    <p style="color: #6c757d;">Women engaged in educational sessions, building knowledge and skills for community leadership and development.</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
 <!-- Contact Information -->
 <section class="section section-dark" id="contact">
     <div class="container">
@@ -216,11 +278,11 @@ require_once 'includes/header.php';
                     </p>
                     <p style="margin-bottom: 1rem;">
                         <strong>Phone:</strong><br>
-                        <a href="tel:+263123456789" style="color: white;">+263 123 456 789</a>
+                        <a href="tel:+263773148004" style="color: white;">+263 77 314 8004</a>
                     </p>
                     <p>
                         <strong>Email:</strong><br>
-                        <a href="mailto:info@patsakatrust.org" style="color: white;">info@patsakatrust.org</a>
+                        <a href="mailto:patsakagroup@gmail.com" style="color: white;">patsakagroup@gmail.com</a>
                     </p>
                 </div>
             </div>
