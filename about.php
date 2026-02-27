@@ -46,7 +46,7 @@ require_once 'includes/header.php';
         <div class="mission-vision-grid" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 3rem;">
             <div class="mission-section">
                 <h2>Our Mission</h2>
-                <p>To promote the active and meaningful participation of marginalized people in sustainable development through advocacy, education, and community empowerment initiatives that address systemic barriers and create opportunities for inclusive growth.</p>
+                <p>To encourage a communication center of open airwaves for all voices, inform, entertain, develop and inspire an engaged community of Kariba and environs through quality programming.</p>
                 
                 <h3 style="margin-top: 2rem;">Core Values</h3>
                 <ul style="list-style: none; padding: 0;">
@@ -79,7 +79,7 @@ require_once 'includes/header.php';
             
             <div class="vision-section">
                 <h2>Our Vision</h2>
-                <p>A society where marginalized communities actively participate in and benefit from sustainable development processes, with equal access to opportunities, resources, and decision-making platforms that shape their collective future.</p>
+                <p>An empowered, participatory, educated, informed and developed community of Kariba and its environs.</p>
                 
                 <h3 style="margin-top: 2rem;">Strategic Objectives</h3>
                 <ul style="list-style: none; padding: 0;">
