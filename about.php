@@ -166,31 +166,84 @@ require_once 'includes/header.php';
         </div>
         
         <div class="team-grid" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 2rem;">
-            <div class="team-member" style="background: #f8f9fa; padding: 2rem; border-radius: 1rem; text-align: center;">
-                <div style="width: 120px; height: 120px; background: linear-gradient(135deg, #3498db, #2980b9); border-radius: 50%; margin: 0 auto 1rem; display: flex; align-items: center; justify-content: center; color: white; font-size: 3rem;">
-                    👤
+            <div class="team-member-card" style="background: white; padding: 2rem; border-radius: 1rem; box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1); text-align: center; transition: all 0.3s ease; position: relative; overflow: hidden;">
+                <div class="team-member-image" style="width: 120px; height: 120px; background: linear-gradient(135deg, #3498db, #2980b9); border-radius: 50%; margin: 0 auto 1.5rem; display: flex; align-items: center; justify-content: center; color: white; font-size: 3rem; position: relative; z-index: 2;">
+                    👔
                 </div>
-                <h3>Executive Director</h3>
-                <p style="color: #6c757d; margin-bottom: 1rem;">Leadership & Strategic Planning</p>
-                <p>Over 15 years of experience in community development and advocacy work.</p>
+                <div class="team-member-content" style="position: relative; z-index: 2;">
+                    <h3 style="color: #2c3e50; margin-bottom: 0.5rem; font-size: 1.3rem;">Mr John T Chirinda</h3>
+                    <p style="color: #3498db; font-weight: 600; margin-bottom: 1rem; font-size: 1rem;">Executive Director</p>
+                    <p style="color: #6c757d; margin-bottom: 1.5rem; line-height: 1.6;">Visionary leader with over 15 years of experience in community development and advocacy work, driving strategic initiatives for sustainable impact.</p>
+                    <div class="team-contact" style="display: flex; flex-direction: column; gap: 0.5rem;">
+                        <a href="tel:+263773148004" style="color: #3498db; text-decoration: none; display: flex; align-items: center; justify-content: center; gap: 0.5rem;">
+                            <span>📱</span> +263 77 314 8004
+                        </a>
+                        <a href="mailto:john.chirinda@patsakatrust.org" style="color: #3498db; text-decoration: none; display: flex; align-items: center; justify-content: center; gap: 0.5rem;">
+                            <span>✉️</span> john.chirinda@patsakatrust.org
+                        </a>
+                    </div>
+                </div>
+                <div class="team-card-bg" style="position: absolute; top: 0; left: 0; right: 0; bottom: 0; background: linear-gradient(135deg, rgba(52, 152, 219, 0.05), rgba(41, 128, 185, 0.1)); z-index: 1;"></div>
             </div>
             
-            <div class="team-member" style="background: #f8f9fa; padding: 2rem; border-radius: 1rem; text-align: center;">
-                <div style="width: 120px; height: 120px; background: linear-gradient(135deg, #e74c3c, #c0392b); border-radius: 50%; margin: 0 auto 1rem; display: flex; align-items: center; justify-content: center; color: white; font-size: 3rem;">
-                    👤
+            <div class="team-member-card" style="background: white; padding: 2rem; border-radius: 1rem; box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1); text-align: center; transition: all 0.3s ease; position: relative; overflow: hidden;">
+                <div class="team-member-image" style="width: 120px; height: 120px; background: linear-gradient(135deg, #e74c3c, #c0392b); border-radius: 50%; margin: 0 auto 1.5rem; display: flex; align-items: center; justify-content: center; color: white; font-size: 3rem; position: relative; z-index: 2;">
+                    🎯
                 </div>
-                <h3>Programs Manager</h3>
-                <p style="color: #6c757d; margin-bottom: 1rem;">Program Implementation</p>
-                <p>Expert in designing and implementing community development programs.</p>
+                <div class="team-member-content" style="position: relative; z-index: 2;">
+                    <h3 style="color: #2c3e50; margin-bottom: 0.5rem; font-size: 1.3rem;">Anwell Bepe</h3>
+                    <p style="color: #e74c3c; font-weight: 600; margin-bottom: 1rem; font-size: 1rem;">Projects Director</p>
+                    <p style="color: #6c757d; margin-bottom: 1.5rem; line-height: 1.6;">Expert in designing and implementing community development programs with a focus on measurable impact and sustainable outcomes.</p>
+                    <div class="team-contact" style="display: flex; flex-direction: column; gap: 0.5rem;">
+                        <a href="tel:+263772148004" style="color: #e74c3c; text-decoration: none; display: flex; align-items: center; justify-content: center; gap: 0.5rem;">
+                            <span>📱</span> +263 77 214 8004
+                        </a>
+                        <a href="mailto:anwell.bepe@patsakatrust.org" style="color: #e74c3c; text-decoration: none; display: flex; align-items: center; justify-content: center; gap: 0.5rem;">
+                            <span>✉️</span> anwell.bepe@patsakatrust.org
+                        </a>
+                    </div>
+                </div>
+                <div class="team-card-bg" style="position: absolute; top: 0; left: 0; right: 0; bottom: 0; background: linear-gradient(135deg, rgba(231, 76, 60, 0.05), rgba(192, 57, 43, 0.1)); z-index: 1;"></div>
             </div>
             
-            <div class="team-member" style="background: #f8f9fa; padding: 2rem; border-radius: 1rem; text-align: center;">
-                <div style="width: 120px; height: 120px; background: linear-gradient(135deg, #27ae60, #229954); border-radius: 50%; margin: 0 auto 1rem; display: flex; align-items: center; justify-content: center; color: white; font-size: 3rem;">
-                    👤
+            <div class="team-member-card" style="background: white; padding: 2rem; border-radius: 1rem; box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1); text-align: center; transition: all 0.3s ease; position: relative; overflow: hidden;">
+                <div class="team-member-image" style="width: 120px; height: 120px; background: linear-gradient(135deg, #27ae60, #229954); border-radius: 50%; margin: 0 auto 1.5rem; display: flex; align-items: center; justify-content: center; color: white; font-size: 3rem; position: relative; z-index: 2;">
+                    📻
                 </div>
-                <h3>Monitoring & Evaluation Officer</h3>
-                <p style="color: #6c757d; margin-bottom: 1rem;">Impact Assessment</p>
-                <p>Specialized in measuring program impact and data-driven decision making.</p>
+                <div class="team-member-content" style="position: relative; z-index: 2;">
+                    <h3 style="color: #2c3e50; margin-bottom: 0.5rem; font-size: 1.3rem;">Vivian Mugande</h3>
+                    <p style="color: #27ae60; font-weight: 600; margin-bottom: 1rem; font-size: 1rem;">Station Coordinator</p>
+                    <p style="color: #6c757d; margin-bottom: 1.5rem; line-height: 1.6;">Dedicated coordinator managing station operations and ensuring smooth implementation of community programs and activities.</p>
+                    <div class="team-contact" style="display: flex; flex-direction: column; gap: 0.5rem;">
+                        <a href="tel:+263771148004" style="color: #27ae60; text-decoration: none; display: flex; align-items: center; justify-content: center; gap: 0.5rem;">
+                            <span>📱</span> +263 77 114 8004
+                        </a>
+                        <a href="mailto:vivian.mugande@patsakatrust.org" style="color: #27ae60; text-decoration: none; display: flex; align-items: center; justify-content: center; gap: 0.5rem;">
+                            <span>✉️</span> vivian.mugande@patsakatrust.org
+                        </a>
+                    </div>
+                </div>
+                <div class="team-card-bg" style="position: absolute; top: 0; left: 0; right: 0; bottom: 0; background: linear-gradient(135deg, rgba(39, 174, 96, 0.05), rgba(34, 153, 84, 0.1)); z-index: 1;"></div>
+            </div>
+            
+            <div class="team-member-card" style="background: white; padding: 2rem; border-radius: 1rem; box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1); text-align: center; transition: all 0.3s ease; position: relative; overflow: hidden;">
+                <div class="team-member-image" style="width: 120px; height: 120px; background: linear-gradient(135deg, #f39c12, #e67e22); border-radius: 50%; margin: 0 auto 1.5rem; display: flex; align-items: center; justify-content: center; color: white; font-size: 3rem; position: relative; z-index: 2;">
+                    💼
+                </div>
+                <div class="team-member-content" style="position: relative; z-index: 2;">
+                    <h3 style="color: #2c3e50; margin-bottom: 0.5rem; font-size: 1.3rem;">Fadzai Helen Manyepa</h3>
+                    <p style="color: #f39c12; font-weight: 600; margin-bottom: 1rem; font-size: 1rem;">HR, Admin and Finance</p>
+                    <p style="color: #6c757d; margin-bottom: 1.5rem; line-height: 1.6;">Skilled professional managing human resources, administration, and financial operations to ensure organizational efficiency and compliance.</p>
+                    <div class="team-contact" style="display: flex; flex-direction: column; gap: 0.5rem;">
+                        <a href="tel:+263770148004" style="color: #f39c12; text-decoration: none; display: flex; align-items: center; justify-content: center; gap: 0.5rem;">
+                            <span>📱</span> +263 77 014 8004
+                        </a>
+                        <a href="mailto:fadzai.manyepa@patsakatrust.org" style="color: #f39c12; text-decoration: none; display: flex; align-items: center; justify-content: center; gap: 0.5rem;">
+                            <span>✉️</span> fadzai.manyepa@patsakatrust.org
+                        </a>
+                    </div>
+                </div>
+                <div class="team-card-bg" style="position: absolute; top: 0; left: 0; right: 0; bottom: 0; background: linear-gradient(135deg, rgba(243, 156, 18, 0.05), rgba(230, 126, 34, 0.1)); z-index: 1;"></div>
             </div>
         </div>
     </div>

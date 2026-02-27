@@ -600,6 +600,120 @@ a:hover {
 .mt-4 { margin-top: var(--spacing-lg); }
 .mt-5 { margin-top: var(--spacing-xl); }
 
+/* Team Member Cards */
+.team-member-card {
+    transform: translateY(0);
+    transition: all 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+}
+
+.team-member-card:hover {
+    transform: translateY(-15px) scale(1.02);
+    box-shadow: 0 20px 40px rgba(0, 0, 0, 0.15) !important;
+}
+
+.team-member-card:hover .team-member-image {
+    transform: scale(1.1);
+    box-shadow: 0 10px 25px rgba(0, 0, 0, 0.2);
+}
+
+.team-member-image {
+    transition: all 0.3s ease;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+}
+
+.team-member-content h3 {
+    transition: color 0.3s ease;
+}
+
+.team-member-card:hover .team-member-content h3 {
+    color: #2c3e50;
+}
+
+.team-contact a {
+    transition: all 0.3s ease;
+    padding: 0.25rem 0.5rem;
+    border-radius: 0.25rem;
+}
+
+.team-contact a:hover {
+    background: rgba(255, 255, 255, 0.8);
+    transform: translateX(5px);
+}
+
+/* Floating animation for team cards */
+@keyframes float {
+    0%, 100% { transform: translateY(0px); }
+    50% { transform: translateY(-10px); }
+}
+
+.team-member-card:nth-child(1) {
+    animation: float 6s ease-in-out infinite;
+    animation-delay: 0s;
+}
+
+.team-member-card:nth-child(2) {
+    animation: float 6s ease-in-out infinite;
+    animation-delay: 1.5s;
+}
+
+.team-member-card:nth-child(3) {
+    animation: float 6s ease-in-out infinite;
+    animation-delay: 3s;
+}
+
+.team-member-card:nth-child(4) {
+    animation: float 6s ease-in-out infinite;
+    animation-delay: 4.5s;
+}
+
+/* Pause floating animation on hover */
+.team-member-card:hover {
+    animation-play-state: paused;
+}
+
+/* Responsive adjustments for team cards */
+@media (max-width: 768px) {
+    .team-member-card {
+        padding: 1.5rem !important;
+    }
+    
+    .team-member-image {
+        width: 100px !important;
+        height: 100px !important;
+        font-size: 2.5rem !important;
+    }
+    
+    .team-member-content h3 {
+        font-size: 1.1rem !important;
+    }
+    
+    .team-contact a {
+        font-size: 0.9rem;
+    }
+}
+
+@media (max-width: 480px) {
+    .team-member-card {
+        padding: 1rem !important;
+    }
+    
+    .team-member-image {
+        width: 80px !important;
+        height: 80px !important;
+        font-size: 2rem !important;
+    }
+    
+    .team-member-content h3 {
+        font-size: 1rem !important;
+    }
+    
+    .team-contact a {
+        font-size: 0.8rem;
+        flex-direction: column;
+        gap: 0.25rem !important;
+    }
+}
+
 /* Carousel Enhancements */
 .carousel-prev:hover,
 .carousel-next:hover {
