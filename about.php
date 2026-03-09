@@ -171,15 +171,14 @@ require_once 'includes/header.php';
                     👔
                 </div>
                 <div class="team-member-content" style="position: relative; z-index: 2;">
-                    <h3 style="color: #2c3e50; margin-bottom: 0.5rem; font-size: 1.3rem;">Mr John T Chirinda</h3>
+                    <h3 style="color: #2c3e50; margin-bottom: 0.5rem; font-size: 1.3rem;">John Chirinda</h3>
                     <p style="color: #3498db; font-weight: 600; margin-bottom: 1rem; font-size: 1rem;">Executive Director</p>
-                    <p style="color: #6c757d; margin-bottom: 1.5rem; line-height: 1.6;">Visionary leader with over 15 years of experience in community development and advocacy work, driving strategic initiatives for sustainable impact.</p>
                     <div class="team-contact" style="display: flex; flex-direction: column; gap: 0.5rem;">
-                        <a href="tel:+263773148004" style="color: #3498db; text-decoration: none; display: flex; align-items: center; justify-content: center; gap: 0.5rem;">
-                            <span>📱</span> +263 77 314 8004
+                        <a href="tel:+263772880870" style="color: #3498db; text-decoration: none; display: flex; align-items: center; justify-content: center; gap: 0.5rem;">
+                            <span>📱</span> +263 77 288 0870
                         </a>
-                        <a href="mailto:john.chirinda@patsakatrust.org" style="color: #3498db; text-decoration: none; display: flex; align-items: center; justify-content: center; gap: 0.5rem;">
-                            <span>✉️</span> john.chirinda@patsakatrust.org
+                        <a href="mailto:johntchirinda@gmail.com" style="color: #3498db; text-decoration: none; display: flex; align-items: center; justify-content: center; gap: 0.5rem;">
+                            <span>✉️</span> johntchirinda@gmail.com
                         </a>
                     </div>
                 </div>
@@ -193,13 +192,12 @@ require_once 'includes/header.php';
                 <div class="team-member-content" style="position: relative; z-index: 2;">
                     <h3 style="color: #2c3e50; margin-bottom: 0.5rem; font-size: 1.3rem;">Anwell Bepe</h3>
                     <p style="color: #e74c3c; font-weight: 600; margin-bottom: 1rem; font-size: 1rem;">Projects Director</p>
-                    <p style="color: #6c757d; margin-bottom: 1.5rem; line-height: 1.6;">Expert in designing and implementing community development programs with a focus on measurable impact and sustainable outcomes.</p>
                     <div class="team-contact" style="display: flex; flex-direction: column; gap: 0.5rem;">
-                        <a href="tel:+263772148004" style="color: #e74c3c; text-decoration: none; display: flex; align-items: center; justify-content: center; gap: 0.5rem;">
-                            <span>📱</span> +263 77 214 8004
+                        <a href="tel:+263776035395" style="color: #e74c3c; text-decoration: none; display: flex; align-items: center; justify-content: center; gap: 0.5rem;">
+                            <span>📱</span> +263 77 603 5395
                         </a>
-                        <a href="mailto:anwell.bepe@patsakatrust.org" style="color: #e74c3c; text-decoration: none; display: flex; align-items: center; justify-content: center; gap: 0.5rem;">
-                            <span>✉️</span> anwell.bepe@patsakatrust.org
+                        <a href="mailto:patsakatrust@gmail.com" style="color: #e74c3c; text-decoration: none; display: flex; align-items: center; justify-content: center; gap: 0.5rem;">
+                            <span>✉️</span> patsakatrust@gmail.com
                         </a>
                     </div>
                 </div>
@@ -213,13 +211,12 @@ require_once 'includes/header.php';
                 <div class="team-member-content" style="position: relative; z-index: 2;">
                     <h3 style="color: #2c3e50; margin-bottom: 0.5rem; font-size: 1.3rem;">Vivian Mugande</h3>
                     <p style="color: #27ae60; font-weight: 600; margin-bottom: 1rem; font-size: 1rem;">Station Coordinator</p>
-                    <p style="color: #6c757d; margin-bottom: 1.5rem; line-height: 1.6;">Dedicated coordinator managing station operations and ensuring smooth implementation of community programs and activities.</p>
                     <div class="team-contact" style="display: flex; flex-direction: column; gap: 0.5rem;">
-                        <a href="tel:+263771148004" style="color: #27ae60; text-decoration: none; display: flex; align-items: center; justify-content: center; gap: 0.5rem;">
-                            <span>📱</span> +263 77 114 8004
+                        <a href="tel:+263775236632" style="color: #27ae60; text-decoration: none; display: flex; align-items: center; justify-content: center; gap: 0.5rem;">
+                            <span>📱</span> +263 77 523 6632
                         </a>
-                        <a href="mailto:vivian.mugande@patsakatrust.org" style="color: #27ae60; text-decoration: none; display: flex; align-items: center; justify-content: center; gap: 0.5rem;">
-                            <span>✉️</span> vivian.mugande@patsakatrust.org
+                        <a href="mailto:kasambabezifm@gmail.com" style="color: #27ae60; text-decoration: none; display: flex; align-items: center; justify-content: center; gap: 0.5rem;">
+                            <span>✉️</span> kasambabezifm@gmail.com
                         </a>
                     </div>
                 </div>
@@ -233,13 +230,12 @@ require_once 'includes/header.php';
                 <div class="team-member-content" style="position: relative; z-index: 2;">
                     <h3 style="color: #2c3e50; margin-bottom: 0.5rem; font-size: 1.3rem;">Fadzai Helen Manyepa</h3>
                     <p style="color: #f39c12; font-weight: 600; margin-bottom: 1rem; font-size: 1rem;">HR, Admin and Finance</p>
-                    <p style="color: #6c757d; margin-bottom: 1.5rem; line-height: 1.6;">Skilled professional managing human resources, administration, and financial operations to ensure organizational efficiency and compliance.</p>
                     <div class="team-contact" style="display: flex; flex-direction: column; gap: 0.5rem;">
-                        <a href="tel:+263770148004" style="color: #f39c12; text-decoration: none; display: flex; align-items: center; justify-content: center; gap: 0.5rem;">
-                            <span>📱</span> +263 77 014 8004
+                        <a href="tel:+263773148004" style="color: #f39c12; text-decoration: none; display: flex; align-items: center; justify-content: center; gap: 0.5rem;">
+                            <span>📱</span> +263 77 314 8004
                         </a>
-                        <a href="mailto:fadzai.manyepa@patsakatrust.org" style="color: #f39c12; text-decoration: none; display: flex; align-items: center; justify-content: center; gap: 0.5rem;">
-                            <span>✉️</span> fadzai.manyepa@patsakatrust.org
+                        <a href="mailto:patsakagroup@gmail.com" style="color: #f39c12; text-decoration: none; display: flex; align-items: center; justify-content: center; gap: 0.5rem;">
+                            <span>✉️</span> patsakagroup@gmail.com
                         </a>
                     </div>
                 </div>
