@@ -209,14 +209,14 @@ require_once 'includes/header.php';
                     📻
                 </div>
                 <div class="team-member-content" style="position: relative; z-index: 2;">
-                    <h3 style="color: #2c3e50; margin-bottom: 0.5rem; font-size: 1.3rem;">Vivian Mugande</h3>
-                    <p style="color: #27ae60; font-weight: 600; margin-bottom: 1rem; font-size: 1rem;">Station Coordinator</p>
+                    <h3 style="color: #2c3e50; margin-bottom: 0.5rem; font-size: 1.3rem;">Primrose Tendai Mushaike</h3>
+                    <p style="color: #27ae60; font-weight: 600; margin-bottom: 1rem; font-size: 1rem;">Events Coordinator</p>
                     <div class="team-contact" style="display: flex; flex-direction: column; gap: 0.5rem;">
-                        <a href="tel:+263775236632" style="color: #27ae60; text-decoration: none; display: flex; align-items: center; justify-content: center; gap: 0.5rem;">
-                            <span>📱</span> +263 77 523 6632
+                        <a href="tel:+263789373515" style="color: #27ae60; text-decoration: none; display: flex; align-items: center; justify-content: center; gap: 0.5rem;">
+                            <span>📱</span> +263 78 937 3515
                         </a>
-                        <a href="mailto:kasambabezifm@gmail.com" style="color: #27ae60; text-decoration: none; display: flex; align-items: center; justify-content: center; gap: 0.5rem;">
-                            <span>✉️</span> kasambabezifm@gmail.com
+                        <a href="mailto:patsakatrustprograms@gmail.com" style="color: #27ae60; text-decoration: none; display: flex; align-items: center; justify-content: center; gap: 0.5rem;">
+                            <span>✉️</span> patsakatrustprograms@gmail.com
                         </a>
                     </div>
                 </div>
