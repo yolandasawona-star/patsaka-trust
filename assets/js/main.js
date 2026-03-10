@@ -1,5 +1,5 @@
 /**
- * Patsaka Trust - Main JavaScript File
+ * Patsaka Organisation - Main JavaScript File
  * Handles mobile navigation, scroll effects, and interactive elements
  */
 
@@ -372,7 +372,7 @@ function trapFocus(element) {
 }
 
 // Console log for debugging (remove in production)
-console.log('Patsaka Trust website initialized successfully');
+console.log('Patsaka Organisation website initialized successfully');
 
 /**
  * Image Carousel Functionality

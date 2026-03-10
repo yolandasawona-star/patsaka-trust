@@ -3,9 +3,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Patsaka Trust - Advocating for meaningful participation of marginalized people in sustainable development">
+    <meta name="description" content="Patsaka Organisation - Advocating for meaningful participation of marginalized people in sustainable development">
     <meta name="keywords" content="advocacy, sustainable development, marginalized communities, inclusive education, youth development, women emancipation, climate change, media communication">
-    <title><?php echo isset($page_title) ? htmlspecialchars($page_title) : 'Patsaka Trust'; ?></title>
+    <title><?php echo isset($page_title) ? htmlspecialchars($page_title) : 'Patsaka Organisation'; ?></title>
     
     <!-- CSS -->
     <link rel="stylesheet" href="assets/css/style.css">
@@ -14,8 +14,8 @@
     <link rel="icon" type="image/x-icon" href="assets/images/favicon.ico">
     
     <!-- Open Graph Meta Tags -->
-    <meta property="og:title" content="<?php echo isset($page_title) ? htmlspecialchars($page_title) : 'Patsaka Trust'; ?>">
-    <meta property="og:description" content="Patsaka Trust - Advocating for meaningful participation of marginalized people in sustainable development">
+    <meta property="og:title" content="<?php echo isset($page_title) ? htmlspecialchars($page_title) : 'Patsaka Organisation'; ?>">
+    <meta property="og:description" content="Patsaka Organisation - Advocating for meaningful participation of marginalized people in sustainable development">
     <meta property="og:type" content="website">
     <meta property="og:url" content="<?php echo (isset($_SERVER['HTTPS']) && $_SERVER['HTTPS'] === 'on' ? 'https' : 'http') . '://' . $_SERVER['HTTP_HOST'] . $_SERVER['REQUEST_URI']; ?>">
 </head>
@@ -26,8 +26,8 @@
             <div class="nav-container">
                 <div class="nav-brand">
                     <a href="index.php" class="brand-link">
-                        <img src="assets/images/logo.png" alt="Patsaka Trust Logo" class="brand-logo">
-                        <span class="brand-name">Patsaka Trust</span>
+                        <img src="assets/images/logo.png" alt="Patsaka Organisation Logo" class="brand-logo">
+                        <span class="brand-name">Patsaka Organisation</span>
                     </a>
                 </div>
                 

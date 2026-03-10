@@ -1,12 +1,12 @@
 <?php
-$page_title = 'About Us - Patsaka Trust';
+$page_title = 'About Us - Patsaka Organisation';
 require_once 'includes/header.php';
 ?>
 
 <!-- Hero Section -->
 <section class="hero">
     <div class="hero-content">
-        <h1>About Patsaka Trust</h1>
+        <h1>About Patsaka Organisation</h1>
         <p>Learn about our mission, vision, and commitment to empowering marginalized communities through sustainable development initiatives.</p>
     </div>
 </section>
@@ -16,7 +16,7 @@ require_once 'includes/header.php';
     <div class="container">
         <div class="about-intro" style="max-width: 800px; margin: 0 auto; text-align: center;">
             <h2>Who We Are</h2>
-            <p class="lead">Patsaka Trust is a non-profit organization dedicated to promoting the active and meaningful participation of marginalized people in sustainable development. We work tirelessly to create inclusive spaces where every voice matters and every community member can contribute to shaping their future.</p>
+            <p class="lead">Patsaka Organisation is a non-profit organization dedicated to promoting the active and meaningful participation of marginalized people in sustainable development. We work tirelessly to create inclusive spaces where every voice matters and every community member can contribute to shaping their future.</p>
             
             <div class="about-stats" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 2rem; margin: 3rem 0;">
                 <div class="stat-item">

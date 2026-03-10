@@ -1,5 +1,5 @@
 <?php
-$page_title = 'Our Impact - Patsaka Trust';
+$page_title = 'Our Impact - Patsaka Organisation';
 require_once 'includes/header.php';
 require_once 'includes/db.php';
 
@@ -195,7 +195,7 @@ function closeShareModal() {
 
 function shareOnSocial(platform) {
     const url = window.location.href + '#story-' + currentStoryId;
-    const text = 'Check out this amazing impact story from Patsaka Trust';
+    const text = 'Check out this amazing impact story from Patsaka Organisation';
     
     let shareUrl = '';
     

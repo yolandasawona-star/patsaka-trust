@@ -1,4 +1,4 @@
--- Patsaka Trust Database Schema
+-- Patsaka Organisation Database Schema
 -- Create database if it doesn't exist
 CREATE DATABASE IF NOT EXISTS patsaka_db CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci;
 
@@ -47,7 +47,7 @@ INSERT INTO stories (title, content, location, published_date) VALUES
     'ACCESS TO INFORMATION IS KEY TO DEVELOPMENT',
     'In Kariba\'s Nyamiminyami Rural District ward 2, Quarry compound, women faced significant challenges due to restricted access to information and inadequate water sources. For years, these women drank from shallow wells, competing with wild animals like elephants for this precious resource. The situation was dire, but the community felt powerless to address their struggles.
 
-    Following a December 2024 community leadership training conducted by Patsaka Trust in partnership with IYWD (Institute for Young Women Development), the women discovered that their invisible ward Councilor was the root cause of their prolonged suffering. The training empowered them with knowledge about their rights and the responsibilities of their elected representatives.
+    Following a December 2024 community leadership training conducted by Patsaka Organisation in partnership with IYWD (Institute for Young Women Development), the women discovered that their invisible ward Councilor was the root cause of their prolonged suffering. The training empowered them with knowledge about their rights and the responsibilities of their elected representatives.
 
     Armed with this newfound awareness, the women formed a committee to visit the Councilor and demand accountability. They also planned to use the local Kasambabezi FM radio station to publicly hold him accountable, ensuring their voices would be heard throughout the community. This collective action demonstrates how access to information can transform passive victims into active agents of change in their communities.',
     'Kariba\'s Nyamiminyami Rural District ward 2, Quarry compound',
@@ -62,5 +62,5 @@ INSERT INTO quotes (story_id, speaker_name, quote_text) VALUES
 (
     @story_id,
     'Florence Nyamaropa',
-    'We are very angry, this time \'naye nemumvura mese\' a Shona phrase meaning we will not leave him until he is accountable. If it was not a community level training by Patsaka Trust we were going to remain in darkness...'
+    'We are very angry, this time \'naye nemumvura mse\' a Shona phrase meaning we will not leave him until he is accountable. If it was not a community level training by Patsaka Organisation we were going to remain in darkness...'
 );

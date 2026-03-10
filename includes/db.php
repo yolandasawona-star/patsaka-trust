@@ -1,7 +1,7 @@
 <?php
 /**
  * Database Configuration and Connection
- * Patsaka Trust Advocacy Platform
+ * Patsaka Organisation Advocacy Platform
  */
 
 // Database configuration constants

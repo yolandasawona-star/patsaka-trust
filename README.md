@@ -1,2 +1,2 @@
-# patsaka-trust
-Patsaka Trust
+# patsaka-organisation
+Patsaka Organisation

@@ -6,7 +6,7 @@
             <div class="footer-grid">
                 <!-- About Section -->
                 <div class="footer-section">
-                    <h3 class="footer-title">About Patsaka Trust</h3>
+                    <h3 class="footer-title">About Patsaka Organisation</h3>
                     <p class="footer-text">
                         We promote the active and meaningful participation of marginalized people in sustainable development through advocacy, education, and community empowerment.
                     </p>
@@ -63,7 +63,7 @@
             <div class="footer-bottom">
                 <div class="footer-bottom-content">
                     <p class="copyright">
-                        &copy; <?php echo date('Y'); ?> Patsaka Trust. All rights reserved.
+                        &copy; <?php echo date('Y'); ?> Patsaka Organisation. All rights reserved.
                     </p>
                     <div class="social-links">
                         <a href="#" class="social-link" aria-label="Facebook">

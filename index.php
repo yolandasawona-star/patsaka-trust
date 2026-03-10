@@ -1,5 +1,5 @@
 <?php
-$page_title = 'Home - Patsaka Trust';
+$page_title = 'Home - Patsaka Organisation';
 require_once 'includes/header.php';
 ?>
 
@@ -7,7 +7,7 @@ require_once 'includes/header.php';
 <section class="hero">
     <div class="hero-content">
         <h1>Empowering Marginalized Communities for Sustainable Development</h1>
-        <p>Patsaka Trust promotes the active and meaningful participation of marginalized people in sustainable development through advocacy, education, and community empowerment.</p>
+        <p>Patsaka Organisation promotes the active and meaningful participation of marginalized people in sustainable development through advocacy, education, and community empowerment.</p>
         <div class="hero-actions">
             <a href="impact.php" class="btn">Our Impact</a>
             <a href="about.php" class="btn btn-secondary">Learn More</a>
@@ -220,9 +220,9 @@ require_once 'includes/header.php';
             <div style="color: #e74c3c; font-weight: 600; margin-bottom: 1rem;">
                 📍 Kariba's Nyamiminyami Rural District ward 2, Quarry compound
             </div>
-            <p>Women in the Quarry compound faced significant challenges due to restricted access to information and inadequate water sources. Following community leadership training by Patsaka Trust and IYWD, they discovered their ward Councilor was the root cause of their struggles and formed a committee to hold him accountable.</p>
+            <p>Women in the Quarry compound faced significant challenges due to restricted access to information and inadequate water sources. Following community leadership training by Patsaka Organisation and IYWD, they discovered their ward Councilor was the root cause of their struggles and formed a committee to hold him accountable.</p>
             <blockquote style="border-left: 4px solid #3498db; padding-left: 1rem; margin: 1.5rem 0; font-style: italic; color: #6c757d;">
-                "We are very angry, this time 'naye nemumvura mese' a Shona phrase meaning we will not leave him until he is accountable. If it was not a community level training by Patsaka Trust we were going to remain in darkness..."
+                "We are very angry, this time 'naye nemumvura mese' a Shona phrase meaning we will not leave him until he is accountable. If it was not a community level training by Patsaka Organisation we were going to remain in darkness..."
                 <footer style="margin-top: 0.5rem; font-weight: 600; color: #2c3e50;">— Florence Nyamaropa</footer>
             </blockquote>
             <div class="text-center mt-4">
