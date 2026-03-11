@@ -167,8 +167,8 @@ require_once 'includes/header.php';
         
         <div class="team-grid" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 2rem;">
             <div class="team-member-card" style="background: white; padding: 2rem; border-radius: 1rem; box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1); text-align: center; transition: all 0.3s ease; position: relative; overflow: hidden;">
-                <div class="team-member-image" style="width: 120px; height: 120px; background: linear-gradient(135deg, #3498db, #2980b9); border-radius: 50%; margin: 0 auto 1.5rem; display: flex; align-items: center; justify-content: center; color: white; font-size: 3rem; position: relative; z-index: 2;">
-                    👔
+                <div class="team-member-image" style="width: 120px; height: 120px; border-radius: 50%; margin: 0 auto 1.5rem; overflow: hidden; position: relative; z-index: 2;">
+                    <img src="assets/images/img3.jpeg" alt="John Chirinda" style="width: 100%; height: 100%; object-fit: cover;">
                 </div>
                 <div class="team-member-content" style="position: relative; z-index: 2;">
                     <h3 style="color: #2c3e50; margin-bottom: 0.5rem; font-size: 1.3rem;">John Chirinda</h3>
@@ -186,8 +186,8 @@ require_once 'includes/header.php';
             </div>
             
             <div class="team-member-card" style="background: white; padding: 2rem; border-radius: 1rem; box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1); text-align: center; transition: all 0.3s ease; position: relative; overflow: hidden;">
-                <div class="team-member-image" style="width: 120px; height: 120px; background: linear-gradient(135deg, #e74c3c, #c0392b); border-radius: 50%; margin: 0 auto 1.5rem; display: flex; align-items: center; justify-content: center; color: white; font-size: 3rem; position: relative; z-index: 2;">
-                    🎯
+                <div class="team-member-image" style="width: 120px; height: 120px; border-radius: 50%; margin: 0 auto 1.5rem; overflow: hidden; position: relative; z-index: 2;">
+                    <img src="assets/images/img1.jpeg" alt="Anwell Bepe" style="width: 100%; height: 100%; object-fit: cover;">
                 </div>
                 <div class="team-member-content" style="position: relative; z-index: 2;">
                     <h3 style="color: #2c3e50; margin-bottom: 0.5rem; font-size: 1.3rem;">Anwell Bepe</h3>
@@ -205,8 +205,8 @@ require_once 'includes/header.php';
             </div>
             
             <div class="team-member-card" style="background: white; padding: 2rem; border-radius: 1rem; box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1); text-align: center; transition: all 0.3s ease; position: relative; overflow: hidden;">
-                <div class="team-member-image" style="width: 120px; height: 120px; background: linear-gradient(135deg, #27ae60, #229954); border-radius: 50%; margin: 0 auto 1.5rem; display: flex; align-items: center; justify-content: center; color: white; font-size: 3rem; position: relative; z-index: 2;">
-                    📻
+                <div class="team-member-image" style="width: 120px; height: 120px; border-radius: 50%; margin: 0 auto 1.5rem; overflow: hidden; position: relative; z-index: 2;">
+                    <img src="assets/images/img4.jpeg" alt="Primrose Tendai Mushaike" style="width: 100%; height: 100%; object-fit: cover;">
                 </div>
                 <div class="team-member-content" style="position: relative; z-index: 2;">
                     <h3 style="color: #2c3e50; margin-bottom: 0.5rem; font-size: 1.3rem;">Primrose Tendai Mushaike</h3>
@@ -224,8 +224,8 @@ require_once 'includes/header.php';
             </div>
             
             <div class="team-member-card" style="background: white; padding: 2rem; border-radius: 1rem; box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1); text-align: center; transition: all 0.3s ease; position: relative; overflow: hidden;">
-                <div class="team-member-image" style="width: 120px; height: 120px; background: linear-gradient(135deg, #f39c12, #e67e22); border-radius: 50%; margin: 0 auto 1.5rem; display: flex; align-items: center; justify-content: center; color: white; font-size: 3rem; position: relative; z-index: 2;">
-                    💼
+                <div class="team-member-image" style="width: 120px; height: 120px; border-radius: 50%; margin: 0 auto 1.5rem; overflow: hidden; position: relative; z-index: 2;">
+                    <img src="assets/images/img5.jpeg" alt="Fadzai Helen Manyepa" style="width: 100%; height: 100%; object-fit: cover;">
                 </div>
                 <div class="team-member-content" style="position: relative; z-index: 2;">
                     <h3 style="color: #2c3e50; margin-bottom: 0.5rem; font-size: 1.3rem;">Fadzai Helen Manyepa</h3>
