@@ -168,11 +168,12 @@ require_once 'includes/header.php';
         <div class="team-grid" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 2rem;">
             <div class="team-member-card" style="background: white; padding: 2rem; border-radius: 1rem; box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1); text-align: center; transition: all 0.3s ease; position: relative; overflow: hidden;">
                 <div class="team-member-image" style="width: 120px; height: 120px; border-radius: 50%; margin: 0 auto 1.5rem; overflow: hidden; position: relative; z-index: 2;">
-                    <img src="assets/images/img3.jpeg" alt="John Chirinda" style="width: 100%; height: 100%; object-fit: cover;">
+                    <img src="images/image3.jpeg" alt="John Chirinda" style="width: 100%; height: 100%; object-fit: cover;">
                 </div>
                 <div class="team-member-content" style="position: relative; z-index: 2;">
                     <h3 style="color: #2c3e50; margin-bottom: 0.5rem; font-size: 1.3rem;">John Chirinda</h3>
                     <p style="color: #3498db; font-weight: 600; margin-bottom: 1rem; font-size: 1rem;">Executive Director</p>
+                    <p style="color: #6c757d; margin-bottom: 1.5rem; line-height: 1.6;">John Chirinda, founder and Executive Director of Patsaka, leads the organization with passion, versatility, and a strong service-oriented vision. He oversees operations, builds partnerships, mentors staff, and guides strategic growth, emphasizing collaboration and community impact to ensure Patsaka's sustainable success.</p>
                     <div class="team-contact" style="display: flex; flex-direction: column; gap: 0.5rem;">
                         <a href="tel:+263772880870" style="color: #3498db; text-decoration: none; display: flex; align-items: center; justify-content: center; gap: 0.5rem;">
                             <span>📱</span> +263 77 288 0870
@@ -187,11 +188,12 @@ require_once 'includes/header.php';
             
             <div class="team-member-card" style="background: white; padding: 2rem; border-radius: 1rem; box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1); text-align: center; transition: all 0.3s ease; position: relative; overflow: hidden;">
                 <div class="team-member-image" style="width: 120px; height: 120px; border-radius: 50%; margin: 0 auto 1.5rem; overflow: hidden; position: relative; z-index: 2;">
-                    <img src="assets/images/img1.jpeg" alt="Anwell Bepe" style="width: 100%; height: 100%; object-fit: cover;">
+                    <img src="images/image1.jpeg" alt="Anwell Bepe" style="width: 100%; height: 100%; object-fit: cover;">
                 </div>
                 <div class="team-member-content" style="position: relative; z-index: 2;">
                     <h3 style="color: #2c3e50; margin-bottom: 0.5rem; font-size: 1.3rem;">Anwell Bepe</h3>
                     <p style="color: #e74c3c; font-weight: 600; margin-bottom: 1rem; font-size: 1rem;">Projects Director</p>
+                    <p style="color: #6c757d; margin-bottom: 1.5rem; line-height: 1.6;">Anwell Bepe, Director of Projects, brings over ten years of experience in youth development, women's empowerment, education, and media. A strategic and collaborative leader, he transforms vision into impactful, sustainable programs and is deeply committed to empowerment and social change through education and media.</p>
                     <div class="team-contact" style="display: flex; flex-direction: column; gap: 0.5rem;">
                         <a href="tel:+263776035395" style="color: #e74c3c; text-decoration: none; display: flex; align-items: center; justify-content: center; gap: 0.5rem;">
                             <span>📱</span> +263 77 603 5395
@@ -206,11 +208,12 @@ require_once 'includes/header.php';
             
             <div class="team-member-card" style="background: white; padding: 2rem; border-radius: 1rem; box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1); text-align: center; transition: all 0.3s ease; position: relative; overflow: hidden;">
                 <div class="team-member-image" style="width: 120px; height: 120px; border-radius: 50%; margin: 0 auto 1.5rem; overflow: hidden; position: relative; z-index: 2;">
-                    <img src="assets/images/img4.jpeg" alt="Primrose Tendai Mushaike" style="width: 100%; height: 100%; object-fit: cover;">
+                    <img src="images/image2.jpeg" alt="Primrose Tendai Mushaike" style="width: 100%; height: 100%; object-fit: cover;">
                 </div>
                 <div class="team-member-content" style="position: relative; z-index: 2;">
                     <h3 style="color: #2c3e50; margin-bottom: 0.5rem; font-size: 1.3rem;">Primrose Tendai Mushaike</h3>
                     <p style="color: #27ae60; font-weight: 600; margin-bottom: 1rem; font-size: 1rem;">Events Coordinator</p>
+                    <p style="color: #6c757d; margin-bottom: 1.5rem; line-height: 1.6;">Primrose Tatenda Mushaike, Events Coordinator, combines strong administrative skills with creativity to plan and deliver successful events. She manages the entire event process, coordinates stakeholders and logistics, and ensures smooth execution, creating impactful and well-organized experiences.</p>
                     <div class="team-contact" style="display: flex; flex-direction: column; gap: 0.5rem;">
                         <a href="tel:+263789373515" style="color: #27ae60; text-decoration: none; display: flex; align-items: center; justify-content: center; gap: 0.5rem;">
                             <span>📱</span> +263 78 937 3515
@@ -225,11 +228,12 @@ require_once 'includes/header.php';
             
             <div class="team-member-card" style="background: white; padding: 2rem; border-radius: 1rem; box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1); text-align: center; transition: all 0.3s ease; position: relative; overflow: hidden;">
                 <div class="team-member-image" style="width: 120px; height: 120px; border-radius: 50%; margin: 0 auto 1.5rem; overflow: hidden; position: relative; z-index: 2;">
-                    <img src="assets/images/img5.jpeg" alt="Fadzai Helen Manyepa" style="width: 100%; height: 100%; object-fit: cover;">
+                    <img src="images/image4.jpeg" alt="Fadzai Helen Manyepa" style="width: 100%; height: 100%; object-fit: cover;">
                 </div>
                 <div class="team-member-content" style="position: relative; z-index: 2;">
                     <h3 style="color: #2c3e50; margin-bottom: 0.5rem; font-size: 1.3rem;">Fadzai Helen Manyepa</h3>
-                    <p style="color: #f39c12; font-weight: 600; margin-bottom: 1rem; font-size: 1rem;">HR, Admin and Finance</p>
+                    <p style="color: #f39c12; font-weight: 600; margin-bottom: 1rem; font-size: 1rem;">Administrator</p>
+                    <p style="color: #6c757d; margin-bottom: 1.5rem; line-height: 1.6;">Hellen Fadzai Manyepa, Administrator, plays a key role in ensuring smooth daily operations through effective office management, logistics, financial and HR support, and systems coordination. Her organization and resourcefulness make her essential to the team's efficient functioning.</p>
                     <div class="team-contact" style="display: flex; flex-direction: column; gap: 0.5rem;">
                         <a href="tel:+263773148004" style="color: #f39c12; text-decoration: none; display: flex; align-items: center; justify-content: center; gap: 0.5rem;">
                             <span>📱</span> +263 77 314 8004

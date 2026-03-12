@@ -52,7 +52,7 @@
                             </p>
                             <p class="footer-text">
                                 <strong>Phone:</strong><br>
-                                <a href="tel:+263123456789">+263 123 456 789</a>
+                                <a href="tel:+263123456789">+263 77 603 5395</a>
                             </p>
                         </div>
                     </div>
@@ -63,7 +63,8 @@
             <div class="footer-bottom">
                 <div class="footer-bottom-content">
                     <p class="copyright">
-                        &copy; <?php echo date('Y'); ?> Patsaka Organisation. All rights reserved.
+                        &copy; <?php echo date('Y'); ?> Patsaka Organisation. All rights reserved.<br>
+                        <small style="opacity: 0.7; font-size: 0.85em;">Designed by Yolanda Sawona</small>
                     </p>
                     <div class="social-links">
                         <a href="#" class="social-link" aria-label="Facebook">

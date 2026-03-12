@@ -26,7 +26,7 @@
             <div class="nav-container">
                 <div class="nav-brand">
                     <a href="index.php" class="brand-link">
-                        <img src="assets/images/logo.png" alt="Patsaka Organisation Logo" class="brand-logo">
+                        <img src="images/image5.jpeg" alt="Patsaka Organisation Logo" class="brand-logo">
                         <span class="brand-name">Patsaka Organisation</span>
                     </a>
                 </div>
